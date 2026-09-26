@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi,我是桃花兰岛主 👋
+不是什么一岛之主，取名金庸小说里的黄药师，又会行医又会做饭，又收藏了很多文玩，我比较喜欢这样的风格
 
-<!--
-**landaozhu/landaozhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是96年的前端开发，2020年毕业一直到现在主要从事前端岗位
 
-Here are some ideas to get you started:
+服务过的公司出名的有：携程、猫眼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+可以从这里了解我：
+- [做过的个人项目demo](https://github.com/landaozhu/web-full-stack-practice)
+- [关于我](https://github.com/landaozhu/Resume)
+
+也许你需要：
+- [前端AI加持刷题神器](https://github.com/landaozhu/front-end-social-interview)
+- [业务开发需要的skill](https://github.com/landaozhu/skills)
