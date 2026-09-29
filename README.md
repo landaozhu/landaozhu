@@ -8,5 +8,5 @@
 - [关于我](https://github.com/landaozhu/Resume)
 
 也许你需要：
-- [前端AI加持刷题神器](https://github.com/landaozhu/front-end-social-interview)
+- [AI加持下前端刷题神器](https://github.com/landaozhu/front-end-social-interview)
 - [业务开发需要的skill](https://github.com/landaozhu/skills)
