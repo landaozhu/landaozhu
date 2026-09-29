@@ -3,10 +3,10 @@
 
 我是96年的前端开发，2020年毕业一直到现在主要从事前端岗位
 
-服务过的公司出名的有：携程、猫眼
+服务过携程、猫眼等互联网公司
 
 可以从这里了解我：
-- [做过的个人项目demo](https://github.com/landaozhu/web-full-stack-practice)
+- [各种技术栈实践项目](https://github.com/landaozhu/web-full-stack-practice)
 - [关于我](https://github.com/landaozhu/Resume)
 
 也许你需要：
